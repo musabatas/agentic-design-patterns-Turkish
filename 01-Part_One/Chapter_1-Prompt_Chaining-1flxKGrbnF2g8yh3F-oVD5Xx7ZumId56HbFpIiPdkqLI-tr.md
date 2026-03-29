@@ -206,7 +206,7 @@ Bu Python kodu, LangChain kutuphanesini kullanarak metni nasil isleyecegini gost
 
 Baglam Muhendisligi (bkz. Sekil 1), bir yapay zeka modeline token uretiminden once eksiksiz bir bilgisel ortam tasarlama, olusturma ve sunma disiplinidir. Bu metodoloji, bir modelin cikti kalitesinin modelin mimarisine daha az, saglanan baglamin zenginligine daha fazla bagli oldugunu ileri surer.
 
-![Context Engineering](../assets/context_engineering.png)
+![Context Engineering](../assets/Context_Engineering.png)
 
 Sekil 1: Baglam Muhendisligi, bir yapay zeka icin zengin, kapsamli bir bilgisel ortam olusturma disiplinidir; bu baglamin kalitesi, gelismis Agentic performansi mumkun kilan temel bir faktordur.
 
