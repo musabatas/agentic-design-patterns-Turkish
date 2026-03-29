@@ -65,7 +65,7 @@ Bu model, "Supervizor" kavraminin nüansli bir uzantisidir; burada supervizorün
 
 "Hiyerarsik" model, cok katmanli bir organizasyonel yapi olusturmak icin supervizor kavramini genisletir. Bu, ust duzey supervisorlerin alt duzey olanlari denetledigi ve nihayetinde en alt katmanda operasyonel agent'lar toplulugunu iceren birden fazla supervizor duzeyi icerir. Bu yapi, her biri hiyerarsinin belirli bir katmani tarafindan yonetilen alt problemlere ayristrilabilir karmasik problemler icin uygundur. Olceklenebilirlik ve karmasiiklik yonetimine yapilandirilmis bir yaklasim saglar ve tanimlanmis sinirlar icerisinde dagitik karar vermeye olanak tanir.
 
-![Agents Communicate and Interact in Various Ways](../assests/Agents_Communicate_and_Interact_in_Various_Ways.png)
+![Agents Communicate and Interact in Various Ways](../assets/Agents_Communicate_and_Interact_in_Various_Ways.png)
 
 Sekil 2: Agent'lar cesitli sekillerde iletisim kurar ve etkilesime girer.
 
